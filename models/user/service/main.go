@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/http"
-	"server-structs/entities/user/dto"
+	"server-structs/models/user/dto"
 
 	"time"
 )
