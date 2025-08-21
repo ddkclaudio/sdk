@@ -1,6 +1,6 @@
 package dto
 
-import "server-structs/models/user/entity"
+import "server-structs/modules/user/entity"
 
 type Create struct {
 	Name         string `json:"name"`

@@ -7,7 +7,7 @@
             "request": "launch",
             "mode": "auto",
             "program": "${workspaceFolder}/main.go",
-            "args": ["gen", "--dir", "schemas/", "--no-prompt"]
+            "args": []
         }
     ]
 }

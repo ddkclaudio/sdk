@@ -1,0 +1,7 @@
+project:
+  name: server-structs
+  modules:
+    - name: Module
+      description: Templates para geração de handlers da API
+      source: template/module
+      destination: projects/sdk/modules
