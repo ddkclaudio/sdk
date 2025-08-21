@@ -3,5 +3,5 @@ project:
   modules:
     - name: Module
       description: Templates para geração de handlers da API
-      source: template/module
-      destination: projects/sdk/modules
+      source: templates/module
+      destination: sdk/modules
